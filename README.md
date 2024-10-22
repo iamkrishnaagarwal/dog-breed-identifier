@@ -18,7 +18,7 @@ The identifier is built using **ResNet50 V2**, a powerful convolutional neural n
 
 ## Dataset
 
-The dataset used for training the model consists of **10,000+ images** of various dog breeds, allowing the model to learn unique features and characteristics. The dataset is publicly available and can be accessed [here]([https://www.kaggle.com/datasets/dilakshanchandrasena/dog-breed-classification]).
+The dataset used for training the model consists of **10,000+ images** of various dog breeds, allowing the model to learn unique features and characteristics. The dataset is publicly available and can be accessed [here](https://www.kaggle.com/datasets/dilakshanchandrasena/dog-breed-classification).
 
 ## Requirements
 
