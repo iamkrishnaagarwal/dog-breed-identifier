@@ -2,7 +2,7 @@
 
 This project is an innovative Dog Breed Identifier that leverages advanced machine learning techniques to enable users to upload images of dogs and receive instant predictions about their breeds. Utilizing a robust neural network model, this application is designed to accurately identify a wide range of dog breeds, providing users with valuable insights about their pets.
 
-Technical Details:
+**Technical Details**:
 Model Architecture: The identifier is built on the ResNet50 V2 architecture, which is well-regarded for its performance in image classification tasks. This deep learning model is fine-tuned for dog breed classification to enhance prediction accuracy.
 
 User-Friendly Interface: The application features a simple and intuitive interface, enabling users of all technical backgrounds to easily upload images and receive information in real time.
