@@ -8,8 +8,8 @@ This project is a **Dog Breed Identifier** that allows users to upload images of
 - **Name Suggestions**: Get personalized name suggestions based on the dog's gender.
 - **Adoption Links**: Access links to adopt the breed identified.
 
-- 
-- ![Dog Breed Identifier](img.png)
+
+ ![Dog Breed Identifier](img.png)
 
 
 ## Model
@@ -18,7 +18,7 @@ The identifier is built using **ResNet50 V2**, a powerful convolutional neural n
 
 ## Dataset
 
-The dataset used for training the model consists of **10,000+ images** of various dog breeds, allowing the model to learn unique features and characteristics. The dataset is publicly available and can be accessed [here](link_to_dataset).
+The dataset used for training the model consists of **10,000+ images** of various dog breeds, allowing the model to learn unique features and characteristics. The dataset is publicly available and can be accessed [here]([link_to_dataset](https://www.kaggle.com/datasets/dilakshanchandrasena/dog-breed-classification)).
 
 ## Requirements
 
