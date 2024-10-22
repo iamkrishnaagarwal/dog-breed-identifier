@@ -21,9 +21,14 @@ This project is a **Dog Breed Identifier** that allows users to upload images of
 
 The identifier is built using **ResNet50 V2**, a powerful convolutional neural network architecture. The model is trained on an open-source dataset containing over **10,000 dog images**, ensuring high accuracy in breed classification.
 
+ ![Dog Breed Identifier](res1.jpg)
+
+ 
+ 
+
 ## Dataset
 
-The dataset used for training the model consists of **10,000+ images** of various dog breeds, allowing the model to learn unique features and characteristics. The dataset is publicly available and can be accessed [here](https://www.kaggle.com/datasets/dilakshanchandrasena/dog-breed-classification).
+The dataset used for training the model consists of **10,000+ images** of various dog breeds, allowing the model to learn unique features and characteristics. The dataset is publicly available and can be accessed [here]([https://www.kaggle.com/datasets/dilakshanchandrasena/dog-breed-classification](https://www.kaggle.com/competitions/dog-breed-identification/data)).
 
 ## Requirements
 
