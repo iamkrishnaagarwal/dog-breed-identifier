@@ -8,7 +8,7 @@ This project is a **Dog Breed Identifier** that allows users to upload images of
 
    ![Dog Breed Identifier](img.png)
 
-  
+- **Dogs Breed Stats**: Get avg stats based on the dog's gender.
 - **Name Suggestions**: Get personalized name suggestions based on the dog's gender.
 - **Adoption Links**: Access links to adopt the breed identified.
 
