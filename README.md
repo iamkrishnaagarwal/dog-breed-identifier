@@ -7,7 +7,8 @@ This project is a **Dog Breed Identifier** that allows users to upload images of
 - **Breed Prediction**: Upload an image of a dog, and the model will identify its breed.
 - **Name Suggestions**: Get personalized name suggestions based on the dog's gender.
 - **Adoption Links**: Access links to adopt the breed identified.
-(img.png)
+- ![Dog Breed Identifier](img.png)
+
 
 ## Model
 
