@@ -59,4 +59,4 @@ To run this project, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/dog-breed-identifier.git
+   git clone https://github.com/iamkrishnaagarwal/dog-breed-identifier.git
