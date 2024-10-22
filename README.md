@@ -21,7 +21,13 @@ This project is a **Dog Breed Identifier** that allows users to upload images of
 
 The identifier is built using **ResNet50 V2**, a powerful convolutional neural network architecture. The model is trained on an open-source dataset containing over **10,000 dog images**, ensuring high accuracy in breed classification.
 
- ![Dog Breed Identifier](res1.jpg)
+![Dog Breed Identifier](res1.jpg)
+
+![Dog Breed Identifier](res2.jpg)
+
+![Dog Breed Identifier](res3.jpg)
+   
+![Dog Breed Identifier](res4.jpg)
 
  
  
